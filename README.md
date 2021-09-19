@@ -52,7 +52,7 @@ New Grad
 | [Pathlight - Product Designer (1 YoE)](https://boards.greenhouse.io/pathlight/jobs/5025411002?s=LinkedIn&source=LinkedIn) | Remote | 9/17
 | [Twitter - Product Designer, 0-1 Team](https://careers.twitter.com/en/work-for-twitter/202109/76cb0bc0-5d9b-48bc-8954-5cf1ff378371/7e7ceb13-e0fa-49cc-b72e-bdf2fb2be8d3.html/product-designer-0-1-team.html) | New York, NY/London/Miami, FL/Remote | 9/17
 | [Zendesk - Product Designer](https://jobs.zendesk.com/us/en/job/ZENDUSR18009EXTERNALENUS/Product-Designer?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedIn) | Remote, USA | 9/17
-| [:eight_pointed_black_star:Honey - Product Designer](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer_R0078466?Codes=W-LINKEDIN) | Los Angeles, CA | 9/15
+| [:white_check_mark:Honey - Product Designer](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer_R0078466?Codes=W-LINKEDIN) | Los Angeles, CA | 9/15
 | [Twitch - UX Designer - General (6 Mo))](https://boards.greenhouse.io/twitch/jobs/5546081002?gh_src=0c4ebc182) | San Francisco, CA | 9/15
 | [Visa - Product Designer - General (2 YoE))](https://jobs.smartrecruiters.com/Visa/743999771754574-product-designer-general?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | Bellevue, WA | 9/15
 | [Coinbase - Product Designer (3 YoE))](https://www.coinbase.com/careers/positions/3132214) | India | 9/15
@@ -88,7 +88,7 @@ New Grad
 | [	:eight_pointed_black_star:Blue Bottle - Learning Experience Designer (2 YoE)](https://jobs.lever.co/bluebottlecoffee/281d3e5b-b339-4734-805c-ea528b6392a4) | Oakland, CA | 9/13
 | [:x:Blink - UX Researcher (3 YoE)](https://jobs.lever.co/blinkux/1ed2e029-e8f8-4bf2-8faa-2a169c6d9a9a) | Seattle, WA | 9/13
 | [Northwestern Mutual - UX Design (2 YoE)](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Experience-Designer_JR-24265) | Wisconsin, MI/New York, NY | 9/13
-| [:white_check_mark: eBay - Design Researcher (0-3 YoE)](https://ebay.wd5.myworkdayjobs.com/apply/login?redirect=%2Fapply%2Fjob%2FSan-Jose%2FDesign-Researcher_R0049036-1%2Fapply%3Fsource%3DLinkedin) | San Jose, CA | 9/13
+| [:_check_mark: eBay - Design Researcher (0-3 YoE)](https://ebay.wd5.myworkdayjobs.com/apply/login?redirect=%2Fapply%2Fjob%2FSan-Jose%2FDesign-Researcher_R0049036-1%2Fapply%3Fsource%3DLinkedin) | San Jose, CA | 9/13
 | [:x:Dow Jones - UX Designer (3 YoE)](https://dowjones.jobs/3AA6ADB6970141C180C6C407166C5F93/job/?vs=16061606) | Los Angeles, CA | 9/13
 | [:x:American Express - UX Designer (3 YoE)](https://aexp.eightfold.ai/careers/job?domain=aexp.com&pid=9106903&utm_medium=campaign123f&utm_source=test123&utm_source=linkedin) | Atlanta, GA | 9/13
 | [Zuora - UX Designer (2 YoE)](https://boards.greenhouse.io/zuora/jobs/3431881?gh_jid=3431881) | Redwood City, CA | 9/13
@@ -123,7 +123,7 @@ New Grad
 | [:x:Amazon - UX Designer - Alexa Auto (3 YoE)](https://www.amazon.jobs/en/jobs/1725262/ux-designer-alexa-auto?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Irvine, CA | 9/10
 | [ViacomCBS - Junior Product Designer](https://careers.viacomcbs.com/job/New-York-Junior-Product-Designer-NY-10036/787589400/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | New York, NY | 9/10
 | [:white_check_mark:Apple - UX Designer - Marcom Internal Tools & Systems](https://jobs.apple.com/en-us/details/200284257/ux-designer-marcom-internal-tools-systems) | Santa Clara Valley, CA | 9/10
-| [:eight_pointed_black_star:JP Morgan Chase - Design Strategist](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210105421/?utm_medium=jobshare&src=LinkedIn_JPMC) | New York, NY | 9/10
+| [:x:JP Morgan Chase - Design Strategist](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210105421/?utm_medium=jobshare&src=LinkedIn_JPMC) | New York, NY | 9/10
 | [BCG Digital Ventures - Experience Designer](https://boards.greenhouse.io/bcgdv/jobs/5520346002?gh_src=b6b8b5072us) | Chicago, IL | 9/10
 | [Shure Incorporated - Designer I, User Experience](https://careers-shure.icims.com/jobs/2281/designer-i%252c-user-experience/job?mode=job&iis=Linkedin&iisn=LinkedIn) | Niles, IL | 9/9
 | [Shure Incorporated - Specialist I, Instructional Design](https://careers-shure.icims.com/jobs/2205/specialist-i%252c-instructional-design/job?mode=job&iis=Linkedin&iisn=LinkedIn) | Niles, IL | 9/9
