@@ -52,7 +52,7 @@ New Grad
 | [Pathlight - Product Designer (1 YoE)](https://boards.greenhouse.io/pathlight/jobs/5025411002?s=LinkedIn&source=LinkedIn) | Remote | 9/17
 | [Twitter - Product Designer, 0-1 Team](https://careers.twitter.com/en/work-for-twitter/202109/76cb0bc0-5d9b-48bc-8954-5cf1ff378371/7e7ceb13-e0fa-49cc-b72e-bdf2fb2be8d3.html/product-designer-0-1-team.html) | New York, NY/London/Miami, FL/Remote | 9/17
 | [Zendesk - Product Designer](https://jobs.zendesk.com/us/en/job/ZENDUSR18009EXTERNALENUS/Product-Designer?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedIn) | Remote, USA | 9/17
-| [Honey - Product Designer](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer_R0078466?Codes=W-LINKEDIN) | Los Angeles, CA | 9/15
+| [:eight_pointed_black_star:Honey - Product Designer](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer_R0078466?Codes=W-LINKEDIN) | Los Angeles, CA | 9/15
 | [Twitch - UX Designer - General (6 Mo))](https://boards.greenhouse.io/twitch/jobs/5546081002?gh_src=0c4ebc182) | San Francisco, CA | 9/15
 | [Visa - Product Designer - General (2 YoE))](https://jobs.smartrecruiters.com/Visa/743999771754574-product-designer-general?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | Bellevue, WA | 9/15
 | [Coinbase - Product Designer (3 YoE))](https://www.coinbase.com/careers/positions/3132214) | India | 9/15
